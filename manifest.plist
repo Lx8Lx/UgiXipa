@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
-"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
   <key>items</key>
@@ -10,21 +8,21 @@
       <array>
         <dict>
           <key>kind</key>
-          <string>software-package</string>
+          <string>software</string>
           <key>url</key>
-          <string>https://www.dropbox.com/scl/fi/ps3a2b09mqp3jl3p047im/DeltaByUgiX.ipa?rlkey=p9qajw4z1y6h3nwbpqqahvnlu&st=y2v23x6z&dl=1</string>
+          <string>https://dl.dropboxusercontent.com/scl/fi/fpx7n5olfs0jpqihcsm4z/Krnl_2.670.714_1746981891.ipa?rlkey=fv9a9l0feg0u08ye8459fud8b&st=qf37giu8</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.example.delta</string>
+        <string>com.krnl.client</string>
         <key>bundle-version</key>
-        <string>1.0.0</string>
+        <string>2.670.714</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>DeltaByUgiX</string>
+        <string>KRNL Injector</string>
       </dict>
     </dict>
   </array>
