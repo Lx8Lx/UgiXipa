@@ -1,30 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plist version="1.0">
 <dict>
-  <key>items</key>
-  <array>
-    <dict>
-      <key>assets</key>
-      <array>
-        <dict>
-          <key>kind</key>
-          <string>software</string>
-          <key>url</key>
-          <string>https://www.dropbox.com/scl/fi/fpx7n5olfs0jpqihcsm4z/Krnl_2.670.714_1746981891.ipa?rlkey=fv9a9l0feg0u08ye8459fud8b&st=dqtkc17z&dl=1</string>
-        </dict>
-      </array>
-      <key>metadata</key>
-      <dict>
-        <key>bundle-identifier</key>
-        <string>com.krnl.client</string>
-        <key>bundle-version</key>
-        <string>2.670.714</string>
-        <key>kind</key>
-        <string>software</string>
-        <key>title</key>
-        <string>KRNL Injector</string>
-      </dict>
+  <key>items</key><array><dict>
+    <key>assets</key><array><dict>
+      <key>kind</key><string>software</string>
+      <key>url</key>
+      <string>https://dl.dropboxusercontent.com/scl/fi/fpx7n5olfs0jpqihcsm4z/Krnl_2.670.714_1746981891.ipa</string>
+    </dict></array>
+    <key>metadata</key><dict>
+      <key>bundle-identifier</key><string>com.krnl.client</string>
+      <key>bundle-version</key><string>2.670.714</string>
+      <key>kind</key><string>software</string>
+      <key>title</key><string>KRNL Injector</string>
     </dict>
-  </array>
+  </dict></array>
 </dict>
 </plist>
