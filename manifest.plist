@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
-  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
     <key>items</key>
@@ -12,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>https://deltaios-executor.com/Signed.ipa</string>
+            <string>https://lx8lx.github.io/Tryipa/Krnl.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -34,87 +33,7 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.gloop.deltamobile</string>
-          <key>bundle-version</key>
-          <string>1.0</string>
-          <key>kind</key>
-          <string>software</string>
-          <key>platform-identifier</key>
-          <string>com.apple.platform.iphoneos</string>
-          <key>title</key>
-          <string>Delta</string>
-        </dict>
-      </dict>
-      <dict>
-        <key>assets</key>
-        <array>
-          <dict>
-            <key>kind</key>
-            <string>software-package</string>
-            <key>url</key>
-            <string>https://lootvalley.co/App.ipa</string>
-          </dict>
-          <dict>
-            <key>kind</key>
-            <string>display-image</string>
-            <key>needs-shine</key>
-            <true/>
-            <key>url</key>
-            <string>https://ipa.s0n1c.ca/7980615e-a343-4375-9140-2c7e7c967ce8/icon.png</string>
-          </dict>
-          <dict>
-            <key>kind</key>
-            <string>full-size-image</string>
-            <key>needs-shine</key>
-            <true/>
-            <key>url</key>
-            <string>https://ipa.s0n1c.ca/7980615e-a343-4375-9140-2c7e7c967ce8/icon.png</string>
-          </dict>
-        </array>
-        <key>metadata</key>
-        <dict>
-          <key>bundle-identifier</key>
-          <string>com.lootvalley.clatech</string>
-          <key>bundle-version</key>
-          <string>1.0</string>
-          <key>kind</key>
-          <string>software</string>
-          <key>platform-identifier</key>
-          <string>com.apple.platform.iphoneos</string>
-          <key>title</key>
-          <string>LootValley</string>
-        </dict>
-      </dict>
-      <dict>
-        <key>assets</key>
-        <array>
-          <dict>
-            <key>kind</key>
-            <string>software-package</string>
-            <key>url</key>
-            <string>https://download1586.mediafire.com/i4f27fco52yg_YETy71FcOC5PKUozFWo6Sm19XqZcvwiBu1yTs7u0j0z82vV6U5oTTJRIgAOT2bwkJyphhXdxOl-rlfyCcvUZDvubMxp68wrdO9V1Qw7Y05MQ35nkGKV3vwx5d7XG9FT4sZijD3VB77XRmQ9W-QXLbf_OKy594u8RaPB/xo0spulf0aykvgk/Krnl_2.670.714_1747261387.ipa</string>
-          </dict>
-          <dict>
-            <key>kind</key>
-            <string>display-image</string>
-            <key>needs-shine</key>
-            <true/>
-            <key>url</key>
-            <string>https://ipa.s0n1c.ca/41137328-9a16-4a28-a70f-ee446e53001e/icon.png</string>
-          </dict>
-          <dict>
-            <key>kind</key>
-            <string>full-size-image</string>
-            <key>needs-shine</key>
-            <true/>
-            <key>url</key>
-            <string>https://ipa.s0n1c.ca/41137328-9a16-4a28-a70f-ee446e53001e/icon.png</string>
-          </dict>
-        </array>
-        <key>metadata</key>
-        <dict>
-          <key>bundle-identifier</key>
-          <string>com.krnl.mobile</string>
+          <string>com.krnl.client</string>
           <key>bundle-version</key>
           <string>2.6</string>
           <key>kind</key>
@@ -122,7 +41,7 @@
           <key>platform-identifier</key>
           <string>com.apple.platform.iphoneos</string>
           <key>title</key>
-          <string>KRNL</string>
+          <string>krnl</string>
         </dict>
       </dict>
     </array>
